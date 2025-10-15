@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống quản lý ghi chú học tập
+
+1. Cho phép người dùng thêm, sửa, xoá ghi chú.  
+2. Mỗi ghi chú được gắn ngày tạo và tiêu đề rõ ràng.  
+3. Dữ liệu ghi chú được lưu trong tệp nội bộ.  
+4. Tính năng đồng bộ hoá với GitHub (tự động commit).  
+5. Hướng tới việc mở rộng thành ứng dụng web trong tương lai.
