@@ -13,8 +13,14 @@
 8. Tổng kết lại các lỗi thường gặp trong Git.  
 9. Đọc tài liệu về best practices khi dùng Git.  
 10. Chia sẻ lại kiến thức học được với bạn bè.
+<<<<<<< Updated upstream
 # Study Plan
 - Ôn lại lệnh Git cơ bản
 - Thực hành commit và push
 - Học về git branch
 - Tìm hiểu git stash
+=======
+Thêm 
+- Ôn tập Git stash nâng cao
+- Thực hành merge conflict
+>>>>>>> Stashed changes
