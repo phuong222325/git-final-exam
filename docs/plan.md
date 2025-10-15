@@ -13,3 +13,8 @@
 8. Tổng kết lại các lỗi thường gặp trong Git.  
 9. Đọc tài liệu về best practices khi dùng Git.  
 10. Chia sẻ lại kiến thức học được với bạn bè.
+# Study Plan
+- Ôn lại lệnh Git cơ bản
+- Thực hành commit và push
+- Học về git branch
+- Tìm hiểu git stash
