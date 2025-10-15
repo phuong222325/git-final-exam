@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản mã nguồn dễ dàng hơn.
 - Giúp làm việc nhóm hiệu quả hơn khi nhiều người cùng chỉnh sửa.
 - Giúp theo dõi lịch sử thay đổi và khôi phục khi cần.
+- Tôi học được cách dùng branch và merge hiệu quả.
+- Tôi thấy Git rất quan trọng trong dự án thực tế.
