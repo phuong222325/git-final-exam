@@ -1,3 +1,6 @@
 Đây là file tạo trực tiếp trên GitHub.
 Dòng thứ hai.
 Dòng thứ ba.
+Thêm 3 dòng
+Dòng thứ tư - thêm tại local.
+Dòng thứ năm - thêm tại local.
