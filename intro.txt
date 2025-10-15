@@ -1,3 +1,4 @@
+Hello, this is Mai Gia Phương
 Kế hoạch học tập:
 1. Ôn lại toàn bộ lệnh Git cơ bản.
 2. Thực hành commit, push và merge mỗi ngày.
