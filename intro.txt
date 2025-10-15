@@ -1,0 +1,14 @@
+Giới thiệu cá nhân:
+Tôi là Mai Gia Phương, sinh viên lớp 222325.
+Tôi yêu thích công nghệ và lập trình phần mềm.
+Hiện tôi đang học về Git và GitHub.
+Tôi mong muốn trở thành lập trình viên chuyên nghiệp.
+
+Sở thích:
+1. Xem phim 2. Nghe nhạc, xem phim.
+3. Du lịch và chụp ảnh.
+
+Kỹ năng:
+1. Sử dụng Git, GitHub cơ bản.
+2. Lập trình Java và Python.
+3. Làm việc nhóm và giao tiếp hiệu quả.
