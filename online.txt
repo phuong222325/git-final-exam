@@ -1,0 +1,3 @@
+Đây là file tạo trực tiếp trên GitHub.
+Dòng thứ hai.
+Dòng thứ ba.
